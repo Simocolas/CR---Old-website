@@ -1,0 +1,32 @@
+# Allow all legitimate search engines and AI bots
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OpenAI-SearchBot
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: YouBot
+Allow: /
+
+# Block common bad/aggressive bots
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: DotBot
+User-agent: SemrushBot
+User-agent: BLEXBot
+User-agent: MegaIndex
+User-agent: JobboerseBot
+User-agent: SeekportBot
+Disallow: /
+
+# Default: Allow but with crawl delay
+User-agent: *
+Allow: /
+Crawl-delay: 2
+
+# Protect API endpoints from all bots
+User-agent: *
+Disallow: /api/

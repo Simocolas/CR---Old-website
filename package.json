@@ -1,0 +1,30 @@
+{
+  "name": "calgary-city-roofing",
+  "version": "1.0.0",
+  "description": "Calgary City Roofing Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Static site - no build needed'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "resend": "^2.1.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.5",
+    "vercel": "^32.5.0"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "keywords": [
+    "roofing",
+    "calgary",
+    "construction"
+  ],
+  "author": "Calgary City Roofing",
+  "license": "MIT"
+}

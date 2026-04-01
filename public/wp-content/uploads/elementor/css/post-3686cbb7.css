@@ -1,0 +1,27 @@
+.elementor-3686 .elementor-element.elementor-element-381e27fc:not(.elementor-motion-effects-element-type-background), .elementor-3686 .elementor-element.elementor-element-381e27fc > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#444444;}.elementor-3686 .elementor-element.elementor-element-381e27fc{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:40px 0px 0px 0px;}.elementor-3686 .elementor-element.elementor-element-381e27fc > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-3686 .elementor-element.elementor-element-c811bc2 > .elementor-widget-container{margin:0px 0px -40px 0px;}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(10px/2);}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(10px/2);}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(10px/2);margin-left:calc(10px/2);}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-10px/2);margin-left:calc(-10px/2);}body.rtl .elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-10px/2);}body:not(.rtl) .elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-10px/2);}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-icon i{color:var( --e-global-color-accent );transition:color 0.3s;}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-icon svg{fill:var( --e-global-color-accent );transition:fill 0.3s;}.elementor-3686 .elementor-element.elementor-element-c811bc2{--e-icon-list-icon-size:24px;--icon-vertical-offset:0px;}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-item > a{font-family:"Raleway", Sans-serif;font-weight:500;}.elementor-3686 .elementor-element.elementor-element-c811bc2 .elementor-icon-list-text{color:var( --e-global-color-84e3a47 );transition:color 0.3s;}.elementor-3686 .elementor-element.elementor-element-434f8699 > .elementor-widget-container{margin:0px 0px -50px 0px;padding:0px 0px 0px 0px;}.elementor-3686 .elementor-element.elementor-element-434f8699{z-index:9;}@media(max-width:1024px){.elementor-3686 .elementor-element.elementor-element-381e27fc{padding:30px 30px 0px 30px;}}@media(max-width:767px){.elementor-3686 .elementor-element.elementor-element-381e27fc{margin-top:0px;margin-bottom:0px;padding:20px 20px 0px 20px;}.elementor-3686 .elementor-element.elementor-element-7fe66610 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-3686 .elementor-element.elementor-element-7fe66610 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-3686 .elementor-element.elementor-element-c811bc2 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3686 .elementor-element.elementor-element-434f8699 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for shortcode, class: .elementor-element-434f8699 */.landingForm .button{
+    background:#ed342c;
+    border:none !important;
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 20px 60px;
+    
+    font-weight: 200 !important;
+    margin-top:10px !important;
+    width: 48.5%;
+}
+.landingForm textarea{
+    height: 80px !important;
+}
+.landingForm input[type="text"], .footerBtn select, .footerBtn textarea{
+        width: 100% !important;
+}
+.landingForm .gform_footer{
+    margin-top:0 !important;
+    padding-top:0 !important;
+    text-align:center;
+}
+
+body .gform_wrapper ul li.gfield{
+    margin-top: 0px !important;
+}/* End custom CSS */
