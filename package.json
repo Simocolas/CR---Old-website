@@ -2,11 +2,8 @@
   "name": "calgary-city-roofing",
   "version": "1.0.0",
   "description": "Calgary City Roofing Website",
-  "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
-    "build": "echo 'Static site - no build needed'",
-    "start": "node server.js"
+    "build": "echo 'Static site - no build needed'"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
