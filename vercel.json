@@ -1,25 +1,9 @@
 {
-  "outputDirectory": "public",
-  "functions": {
-    "api/*.js": {
-      "maxDuration": 10
-    }
-  },
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/",
-      "destination": "/index.html"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/api/(.*)",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        }
-      ]
+      "source": "/(.*)",
+      "destination": "https://calgarycityroofing.com/",
+      "statusCode": 301
     }
   ]
 }
